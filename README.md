@@ -7,7 +7,7 @@ How did you approach the problem? Consider why data structures are important to 
 When approaching this problem I considered three different types of data structure such as hash tables and decided that the binary search tree was the most proficient option for this scenario.
 
 How did you overcome any roadblocks you encountered while going through the activities or project?
-When I first attempted to create this program I needed to look back on the files that I created previously such as the binary search tree from earlier weeks. Looking at my My pseudocode again allowed me to revise it in a more well written way in the final project and that really helped me properly align my programming with the desired functionality that was required to meet the criteria in this program.
+When I first attempted to create this program I needed to look back on the files that I created previously such as the binary search tree from earlier weeks. Looking at my pseudocode again allowed me to revise it in a more well written way in the final project and that really helped me properly align my programming with the desired functionality that was required to meet the criteria in this program.
 
 How has your work on this project expanded your approach to designing software and developing programs?
 Working on this project made me consider several different approaches and analyze and evaluate their properties to determine which method best solves the problems in the most efficient way.
